@@ -75,9 +75,11 @@ Bounding box visualization
 ---
  Results
 Normal Case
+<img width="640" height="480" alt="anomaly_1776828908" src="https://github.com/user-attachments/assets/d78a0fae-1eb1-4602-b2b6-45bddbd67548" />
 
 
 
 Anomaly Case
 
+<img width="1024" height="600" alt="Screenshot from 2026-04-21 23-37-45" src="https://github.com/user-attachments/assets/45e5b769-6e32-47f4-9e09-24a08e006eb6" />
 
