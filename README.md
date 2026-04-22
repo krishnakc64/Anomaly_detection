@@ -35,4 +35,49 @@ In this project:
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
+detector.py → Object detection logic
+ui.py → Camera UI + anomaly visualization
+images/ → Output screenshots
+
+
+---
+
+##  How to Run
+
+### 1. Install dependencies
+pip3 install opencv-python numpy ultralytics
+
+create two file 
+detector.py for detecting anomaly objects and ui for window display
+
+2. Run the project
+python3 ui.py
+
+---
+Output Examples
+ Normal Detection
+Objects detected with bounding boxes
+Status: SYSTEM NORMAL
+ Anomaly Detection
+Bottle detected
+Red warning displayed
+Screenshot saved automatically
+
+---
+Features
+Real-time object detection
+Anomaly detection (bottle)
+Live camera window
+Automatic image capture on anomaly
+Bounding box visualization
+
+---
+ Results
+Normal Case
+
+
+
+Anomaly Case
+
+
